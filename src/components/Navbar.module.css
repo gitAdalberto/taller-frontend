@@ -1,0 +1,33 @@
+.nav{
+ background-color: #fff;
+ margin: 0;
+ padding: 1rem;
+ border-radius: 8px;
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-between;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+}
+.ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.ul li a:hover {
+    color: #09f;
+}
+
+.title a{
+    text-decoration: none;
+}.title a:hover{
+    color: #09f;
+}

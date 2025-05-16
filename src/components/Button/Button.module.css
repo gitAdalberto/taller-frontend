@@ -1,0 +1,19 @@
+.button{
+    border: none;
+    padding: 0.5rem;
+    border-radius:8px;
+    size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.45);
+}
+
+.button p{
+    font-size: 16;
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    margin-right: 0.5rem;
+}

@@ -1,0 +1,19 @@
+.container{
+    
+    padding: 1rem;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    gap: 1rem;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1rem;
+}

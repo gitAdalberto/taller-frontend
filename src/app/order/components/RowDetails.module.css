@@ -1,0 +1,14 @@
+.details{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.detail{
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+}
+.detail p {
+    border: none;
+}
