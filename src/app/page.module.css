@@ -12,7 +12,8 @@
     display: inline-flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: stretch;
+    flex-wrap: wrap;
     padding: 1rem 0;
     gap: 1rem;
     width: 100%;
